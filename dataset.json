@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Fundamental Analysis",
+    "prompts": [
+      "Analyze the market depth for a specific pair using historical price data.",
+      "Calculate the Relative Strength Index (RSI) for a given coin's price action over time.",
+      "Examine the Moving Average Convergence Divergence (MACD) to identify potential market trends."
+    ]
+  },
+  {
+    "name": "Technical Analysis",
+    "prompts": [
+      "Assess the Bollinger Bands to determine volatility and potential entry/exit points.",
+      "Identify divergences between the price of Ethereum and its corresponding RSI indicator.",
+      "Evaluate the Fisher Transform indicator for catching breakouts in a crypto asset's price."
+    ]
+  },
+  {
+    "name": "News Trading",
+    "prompts": [
+      "React to regulatory news events by assessing their potential impact on market sentiment.",
+      "Track major updates or announcements relating to cryptocurrencies and gauge public perception.",
+      "Evaluate press releases from key players in the crypto space for new opportunities."
+    ]
+  },
+  {
+    "name": "On-chain Analysis",
+    "prompts": [
+      "Analyze transaction volume data for a specific coin to measure market interest.",
+      "Investigate on-chain data to pinpoint potential shifts in market sentiment.",
+      "Explore network-wide data trends to predict future price movements."
+    ]
+  },
+  {
+    "name": "Strategy Optimization",
+    "prompts": [
+      "Develop custom trading strategies based on your risk tolerance and financial goals.",
+      "Automate decision-making processes using machine learning algorithms.",
+      "Backtest hypothetical investment scenarios to optimize for profit potential."
+    ]
+  }
+]
