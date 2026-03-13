@@ -1,4 +1,4 @@
-# 100 Expert Ethereum Crypto Opportunity Prompts: Copy-Paste AI Commands That Actually Work
+# 100-expert-ethereum-crypto-opportunity-prompts:-copy-paste-a
 
 Unlock the full potential of your Ethereum crypto opportunities with this premium pack of 100 battle-tested prompts for ChatGPT/ Claude! As an AI power user, you'll have access to must-have tools that
 
@@ -6,7 +6,7 @@ Unlock the full potential of your Ethereum crypto opportunities with this premiu
 
 | Property | Value |
 |---|---|
-| Records | 5 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,12 +14,7 @@ Unlock the full potential of your Ethereum crypto opportunities with this premiu
 ## Sample
 
 ```json
-{
-  "name": "Fundamental Analysis",
-  "prompts": [
-    "Analyze the market depth for a specific pair using historical price data.",
-    "Calculate the Relative Strength Index (RSI) for a given coin's price action over time.",
-    "Examine the Moving Average Convergence Divergence (MACD) to identify 
+Keys: title, description, price
 ```
 
 ## Usage
